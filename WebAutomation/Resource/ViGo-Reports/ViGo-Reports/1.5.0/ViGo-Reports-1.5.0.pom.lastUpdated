@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 07 14:26:17 IST 2017
+file\://C\:\\Users\\KQSPL_R\\.m2\\repository/.error=Could not transfer artifact ViGo-Reports\:ViGo-Reports\:pom\:1.5.0 from/to projectrepo (file\://C\:\\Users\\KQSPL_R\\.m2\\repository)\: Repository path C\:\\Users\\KQSPL_R\\.m2\\repository does not exist, and cannot be created.
+file\://C\:\\Users\\User\\.m2\\repository/.error=
+@default-projectrepo-file\://C\:\\Users\\Administrator\\.m2\\repository/.lastUpdated=1485954295276
+@default-projectrepo-file\://C\:\\Users\\KQSPL_R\\.m2\\repository/.lastUpdated=1480997957469
+file\://C\:\\Users\\User\\.m2\\repository/.lastUpdated=1488876977707
+https\://repo.maven.apache.org/maven2/.lastUpdated=1488876977967
+file\://C\:\\Users\\Administrator\\.m2\\repository/.error=Could not transfer artifact ViGo-Reports\:ViGo-Reports\:pom\:1.5.0 from/to projectrepo (file\://C\:\\Users\\Administrator\\.m2\\repository)\: Repository path C\:\\Users\\Administrator\\.m2\\repository does not exist, and cannot be created.
+https\://repo.maven.apache.org/maven2/.error=

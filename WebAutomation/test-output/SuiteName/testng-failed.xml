@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="10" name="Failed suite [SuiteName]">
+  <parameter name="selenium.port" value="4444"/>
+  <parameter name="selenium.host" value="localhost"/>
+  <parameter name="selenium.browser" value="firefox"/>
+  <parameter name="selenium.url" value="https://www.gmail.com"/>
+  <test name=" TC_1 : To verify user can successfully sign using valid credentials . (failed)">
+    <classes>
+      <class name="com.Framework.signIn.Index.SignInIndex">
+        <methods>
+          <include name="fetchSuiteConfiguration"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="postConfigue"/>
+          <include name="signinGmail"/>
+        </methods>
+      </class> <!-- com.Framework.signIn.Index.SignInIndex -->
+    </classes>
+  </test> <!--  TC_1 : To verify user can successfully sign using valid credentials . (failed) -->
+</suite> <!-- Failed suite [SuiteName] -->

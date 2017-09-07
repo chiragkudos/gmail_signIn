@@ -36,6 +36,9 @@ import org.testng.Reporter;
 /**
  * Define Common Webdriver
  */
+
+
+
 public class Common {
 	Date date = new Date();
 	protected static Wait<WebDriver> wait;
@@ -983,6 +986,12 @@ public static String getNextDate(String Fortmat, int CurrentToNextDate)
 	}
 
 	public static void logverification(String msg) {
+		// TODO Auto-generated method stub
+		System.out.println(msg);
+		Reporter.log("</br> <i>" + msg + "</i></br>");
+	}
+
+	public static void logverification1(String msg) {
 		// TODO Auto-generated method stub
 		System.out.println(msg);
 		Reporter.log("</br> <i>" + msg + "</i></br>");
